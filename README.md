@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+FIGMA DESIGN : https://www.figma.com/file/8QeCt5gdVd1ErBsYYp1KJu/Absenkuy?node-id=0%3A1
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
